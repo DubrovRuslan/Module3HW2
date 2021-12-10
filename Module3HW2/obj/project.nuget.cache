@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojraUGrlqABss60ebRJjdntqvSCLA8XyTIm353LIFIalVB8Ew+L5wXreaVSCxQSCrR0ClglN2bMjagP4yOLiIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dubrov\\source\\repos\\A-Level\\Module3HW2\\Module3HW2\\Module3HW2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dubrov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dubrov\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
